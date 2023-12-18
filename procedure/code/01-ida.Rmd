@@ -119,8 +119,8 @@ package_check <- lapply(
 
 # install old version of rtweet
 
-install_version("rtweet", version = "0.7.0",
-                repos = "https://cran.r-project.org")
+# install_version("rtweet", version = "0.7.0",
+#                 repos = "https://cran.r-project.org")
 library(rtweet)
 ```
 
@@ -131,7 +131,7 @@ library(rtweet)
 
 First, you will need a Census API. You can sign up for one here: <https://api.census.gov/data/key_signup.html>
 
-```{r census-api}
+```{r census-api, results = 'hide'}
 census_api_key(dlgInput(
   "Enter a Census API Key",
   Sys.getenv("CENSUS_API_KEY")
