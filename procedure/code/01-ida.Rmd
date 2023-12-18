@@ -1047,8 +1047,8 @@ This exemplifies the challenge of implementing open science when many of the res
 
 # Acknowledgements
 
-I collaborated with [Andy Cao](andreyjcao.github.io) on this project.
-See his project in his GitHub repository for a different take on this replication.
+I collaborated with [Andy Cao](https://andreyjcao.github.io/) on this project.
+See his project on his Github site for a different take on this replication.
 
 This report is based upon the template for Reproducible and Replicable Research in Human-Environment and Geographical Sciences, [DOI:[10.17605/OSF.IO/W29MQ](DOI:%5B10.17605/OSF.IO/W29MQ){.uri}](https://doi.org/10.17605/OSF.IO/W29MQ)
 
