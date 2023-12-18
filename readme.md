@@ -20,7 +20,7 @@ This study is a *replication* of:
 - `Key words`: hurricane, Ida, Twitter
 - `Subject`: Geography: Nature and Society Relations
 - `Date created`: 11/28/2023
-- `Date modified`: 11/28/2023
+- `Date modified`: 12/18/2023
 - `Spatial Coverage`: Specify the geographic extent of your study. This may be a place name and link to a feature in a gazetteer like GeoNames or OpenStreetMap, or a well known text (WKT) representation of a bounding box.
 - `Spatial Resolution`: Specify the spatial resolution as a scale factor, description of the level of detail of each unit of observation (including administrative level of administrative areas), and/or or distance of a raster GRID size
 - `Spatial Reference System`: Specify the geographic or projected coordinate system for the study
